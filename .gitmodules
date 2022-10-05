@@ -1,0 +1,3 @@
+[submodule "components/FastAccelStepper"]
+	path = components/FastAccelStepper
+	url = https://github.com/JustinOng/FastAccelStepper.git
